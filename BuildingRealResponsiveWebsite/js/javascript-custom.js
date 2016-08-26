@@ -149,3 +149,12 @@ $(document).ready(function () {
         time: 2000
     });
 });
+
+
+//add animation/ initialize Woo
+$(document).ready(function () {
+
+    'use strict';
+
+    new WOW().init();
+});
