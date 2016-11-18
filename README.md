@@ -8,5 +8,5 @@ These websites are replicas of another website created by the following Author
 Author/Creator of the website:  
 Irfan Dayan (Teacher @ Udemy.com & Senior Web Developer)
 
-# View the content of Reposnsive website
+# View the content of reposnsive website
 To see the content goto - > BuildingRealResponsiveWebsite folder
